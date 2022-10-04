@@ -1,2 +1,2 @@
 # misc
-Small repo for misc items
+small repo for misc items
