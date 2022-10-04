@@ -1,0 +1,3 @@
+Data from https://app.americansocceranalysis.com/#!/mls/xgoals/teams
+
+Images show average goal differential per. season vs. average pts per. season for all MLS sides (with more than 5 seasons played) from 2013-2022.
